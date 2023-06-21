@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'INGRESE LOS GRADOS CELSIUS'
+5
+1
+6
+GRADOS
+6
+1
+8
+DIVISION
+3
+9/5
+6
+1
+1
+F
+15
+GRADOS*DIVISION
+6
+1
+1
+F
+5
+F+ 32
+4
+1
+32
+'LOS GRADOS fahrenheit SON ' , F
+1
