@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+"obtiene el mayor de 3 numeros"
+4
+1
+19
+"ingrese un numero"
+5
+1
+25
+numero1, numero2, numero3
+7
+0
+1
+41
+numero1 >= numero2 AND numero1 >= numero3
+7
+0
+1
+43
+numero2  >= numero1 AND numero2  >= numero3
+6
+1
+1
+M
+7
+numero3
+13
+6
+1
+1
+M
+7
+numero2
+13
+13
+6
+1
+1
+M
+7
+numero1
+13
+4
+1
+38
+"El mayor de los tres numeros es: ", M
+1
