@@ -1,0 +1,93 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+1
+N
+6
+3
+6
+INICIO
+1
+0
+5
+FINAL
+1
+9
+2
+NG
+1
+1
+8
+1
+1
+X
+1
+1
+1
+1
+1
+5
+1
+1
+1
+4
+1
+56
+INICIO , " <= N  AND N <= ", FINAL, "  ES EL GRUPO ", NG
+7
+0
+1
+26
+INICIO <= N AND N <= FINAL
+13
+4
+1
+35
+"SI ENTRO Y TIENE ", NG, "  CIFRAS"
+13
+7
+0
+1
+10
+INICIO = 0
+13
+6
+1
+6
+INICIO
+10
+INICIO + 1
+13
+6
+1
+6
+INICIO
+11
+INICIO * 10
+6
+3
+5
+FINAL
+9
+FINAL + 1
+5
+FINAL
+8
+FINAL*10
+5
+FINAL
+8
+FINAL -1
+6
+1
+2
+NG
+4
+NG+1
+10
+1

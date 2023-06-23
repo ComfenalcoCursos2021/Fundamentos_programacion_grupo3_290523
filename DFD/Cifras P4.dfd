@@ -1,0 +1,73 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+1
+N
+6
+3
+6
+INICIO
+1
+0
+5
+FINAL
+1
+9
+2
+NG
+1
+1
+9
+1
+9
+FINAL < N
+7
+0
+1
+10
+INICIO = 0
+13
+6
+1
+6
+INICIO
+10
+INICIO + 1
+13
+6
+1
+6
+INICIO
+9
+INICIO*10
+6
+3
+5
+FINAL
+9
+FINAL + 1
+5
+FINAL
+9
+FINAL *10
+5
+FINAL
+7
+FINAL-1
+6
+1
+2
+NG
+4
+NG+1
+11
+4
+1
+33
+"EL NUMERO TIENE ",NG , " CIFRAS"
+1
