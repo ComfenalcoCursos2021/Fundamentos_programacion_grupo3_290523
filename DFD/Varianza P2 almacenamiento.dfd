@@ -40,4 +40,26 @@ VDATOS(X)
 6
 NUMERO
 10
+4
+1
+32
+"termino de guardar o almacenar"
+8
+1
+1
+X
+1
+1
+0
+1
+10
+CANTIDAD-1
+1
+1
+1
+4
+1
+45
+"EL VALOR EN LA POS ", (X+1) ," = ",VDATOS(X)
+10
 1

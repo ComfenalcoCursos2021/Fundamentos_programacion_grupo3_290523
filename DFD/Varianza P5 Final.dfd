@@ -1,0 +1,130 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+58
+"Por favor ingresa la cantidad de datos que vas a digitar"
+5
+1
+8
+CANTIDAD
+9
+1
+13
+CANTIDAD <= 0
+4
+1
+72
+"POR FAVOR INGRESE UNA CANTIDAD DE 1 EN ADELANTE; Y QUE ESTE SEA ENTERO"
+5
+1
+8
+CANTIDAD
+11
+6
+1
+16
+VDATOS(CANTIDAD)
+1
+0
+8
+1
+1
+X
+1
+1
+0
+1
+13
+CANTIDAD - 1 
+1
+1
+1
+4
+1
+38
+"Por favor ingrese  el ",(X+1)," dato"
+5
+1
+17
+EL_DATO_INGRESADO
+6
+1
+9
+VDATOS(X)
+17
+EL_DATO_INGRESADO
+10
+6
+1
+4
+SUMA
+1
+0
+8
+1
+1
+X
+1
+1
+0
+1
+12
+CANTIDAD - 1
+1
+1
+1
+6
+1
+4
+SUMA
+16
+SUMA + VDATOS(X)
+10
+6
+1
+8
+PROMEDIO
+14
+SUMA /CANTIDAD
+6
+1
+12
+SUMAVARIANZA
+1
+0
+8
+1
+1
+X
+1
+1
+0
+1
+12
+CANTIDAD - 1
+1
+1
+1
+6
+1
+12
+SUMAVARIANZA
+38
+SUMAVARIANZA + ( VDATOS(X)-PROMEDIO)^2
+10
+6
+1
+8
+VARIANZA
+21
+SUMAVARIANZA/CANTIDAD
+4
+1
+27
+"LA VARIANZA ES ", VARIANZA
+1
