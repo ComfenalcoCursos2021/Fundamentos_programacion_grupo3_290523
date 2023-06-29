@@ -6,7 +6,7 @@ public class Lanzador {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		System.out.println("Cortesia del compañero Yeison");
 		int numero1;
 		int numero2;
 		int numero3;
